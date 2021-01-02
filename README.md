@@ -4,4 +4,4 @@ Script monitors bitcoin transaction status using its hash ID and informs if tran
 
 COLLABORATIONS:
 
-Collaborations to improve this script are always welcome :)
+Collaborations to improve script are always welcome.

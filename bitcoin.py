@@ -2,7 +2,7 @@ import re
 import requests
 
 # Copyright (c) 2020 Fernando
-# Url: https://github.com/dlfernando/
+# Url: https://github.com/fernandod1/
 # License: MIT
 
 # This script monitors bitcoin transaction status using its hash ID and informs if transaction was already completed or not.
